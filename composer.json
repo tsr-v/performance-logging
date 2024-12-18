@@ -1,0 +1,13 @@
+{
+    "name": "welhof/performance-logging",
+    "description": "Performance logging package for Welhof Business System",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Welhof\\PerformanceLogging\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
