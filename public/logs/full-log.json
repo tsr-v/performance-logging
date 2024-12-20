@@ -1,0 +1,14 @@
+[
+    {
+        "user_id": "test_user",
+        "url": "http:\/\/localhost:8000\/",
+        "timestamp": "2024-12-20T12:07:30.308Z",
+        "total_time": 0.20000001788139343,
+        "navigationStart": 1734696449629,
+        "domContentLoaded": 574.0999999940395,
+        "loadEventEnd": 574.3000000119209,
+        "redirectCount": null,
+        "loadEventStart": 574.0999999940395,
+        "domContentLoadedEventStart": 574.0999999940395
+    }
+]
